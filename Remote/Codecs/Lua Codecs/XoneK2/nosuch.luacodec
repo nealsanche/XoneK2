@@ -1,0 +1,16 @@
+version={0,0,1}
+
+function remote_supported_control_surfaces()
+	local surfaces = {
+		{
+			manufacturer = "Allen & Heath",
+			model = "Xone:K2",
+			source = "XoneK2.lua",
+			picture = "XoneK2.png",
+			in_ports = {{description="In Port"}},
+			out_ports = {{description="Out Port", optional=true}},
+			has_keyboard=false
+		},
+	}
+	return surfaces
+end

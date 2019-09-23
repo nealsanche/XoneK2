@@ -1,0 +1,10 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Allen & Heath
+Control Surface Model	Xone:K2
+Map Version	1.0.0
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Rotary 1		Rotary 1
+Map	Button 1		Button 1
