@@ -17,7 +17,7 @@ On a Mac:
 And on Windows:
 
 ```
-~\AppData\Local\Propellerhead Software
+~\AppData\Roaming\Propellerhead Software
 ```
 
 # Once Installed Correctly
